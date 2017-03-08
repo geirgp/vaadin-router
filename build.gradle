@@ -1,5 +1,4 @@
 group 'tv.geir.vaadin'
-arti
 version '0.1.0-SNAPSHOT'
 
 apply plugin: 'java'

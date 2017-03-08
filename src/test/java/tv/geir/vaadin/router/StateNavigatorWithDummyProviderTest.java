@@ -1,6 +1,7 @@
 package tv.geir.vaadin.router;
 
 import com.vaadin.ui.UI;
+import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.InOrder;
@@ -22,6 +23,7 @@ import static org.mockito.Mockito.inOrder;
 import static org.mockito.Mockito.times;
 
 @RunWith(MockitoJUnitRunner.class)
+@Ignore
 public class StateNavigatorWithDummyProviderTest {
 
     @Mock
